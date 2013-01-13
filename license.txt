@@ -1,0 +1,21 @@
+IMPORTANT - READ CAREFULLY
+
+This License Agreement is a legal agreement between you (either an individual or a single entity) and HPT Interactive for the software product identified as the HPT Interactive STARS (c) 2002, which includes computer software and associated media and printed materials, any may include "online" or electronic documentation (the "Work"). By installing, copying, or otherwise using the Work, you agree to be bound by the terms of this License Agreement. If you do not agree to the terms of this License Agreement, promptly remove the unused work from your computer. The software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+1. Prerequisites
+
+The Licensee is responsible for obtaining any further license that may be necessary to provide the computing environment required by the Work. Rights implied by this Software Agreement will never exceed the rights implied by such further license(s) nor will any rights implied by such further license(s) exceed the rights implied by this Software Agreement.
+
+2. Grant of License
+
+HPT Interactive, a 'forming' company located in Houston, Texas, grants to the Licensee, free of charge, a non-exclusive and nontransferable license to use the Work only for the licensee's personal use. This Software Agreement does not pertain the Licensee to use the Work or any part of the Work for any commercial purposes. This license does not entitle the Licensee to further releases of the Work. The Licensee may distribute the Work in whole to third parties but may not sell products or services based on the Work, including educational and research services.
+
+3. Credit
+ 
+All credits and copyright notices in the Work, both in listings and/or documentation, whether names of individuals or organizations, will be retained in place by the Licensee. The Licensee will acknowledge in any published copy or in any other use of the Work the authorship of the Work and the fact that the Work was developed at HPT Interactive and is copyrighted by HPT Interactive.
+
+ 4. Product Warranty & Liability
+
+THE WORK IS RELEASED ON AN "AS IS" BASIS, AND THERE IS NO WARRANTY EXPRESSED OR IMPLIED AS TO THE FUNCTIONING, PERFORMANCE OR EFFECT ON HARDWARE OR OTHER SOFTWARE. THE LICENSEE RECOGNIZES THAT HPT INTERACTIVE IS NOT OBLIGED TO PROVIDE MAINTENANCE, CONSULTATION OR REVISION OF THE WORK. THERE ARE NO WARRANTIES OR CONDITIONS, EXPRESSED OR IMPLIED, STATUTORY OR OTHERWISE APPLICABLE TO THE WORK INCLUDING BUT NOT LIMITED TO ANY EXPRESSED OR IMPLIED WARRANTY WITH RESPECT TO MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT WILL HPT INTERACTIVE BE LIABLE FOR SPECIAL, INDIRECT, DIRECT, PUNITIVE, CONSEQUENTIAL OR ANY OTHER KIND OF DAMAGES INCLUDING LOSS OF PROFITS, LOSS OF USE OR LOSS OF DATA. LICENSEE AGREES THAT NEITHER HPT INTERACTIVE NOR THE INDIVIDUALS RESPONSIBLE FOR THE DEVELOPMENT OF THE WORK SHALL BE LIABLE TO LICENSEE FOR ANY LOSS, COSTS OR DAMAGE OF ANY KIND SUFFERED BY LICENSEE WHICH MAY ARISE OUT OF USE, ALTERATION OR DISTRIBUTION OF THE WORK AND LICENSEE AGREES TO INDEMNIFY AND SAVE HARMLESS HPT INTERACTIVE, ITS OFFICERS AND EMPLOYEES FROM ANY SUCH CLAIMS.
+
+
